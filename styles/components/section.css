@@ -39,7 +39,7 @@
 .section-hero .section-foreground .section-header {
     padding: 25px 0;
 } 
-.section-hero .section-foreground .section-body {
+.section-hero .section-foreground .jumbotron {
     -webkit-box-flex: 1;
         -ms-flex-positive: 1;
             flex-grow: 1;
@@ -52,4 +52,4 @@
     -webkit-box-pack: center;
         -ms-flex-pack: center;
             justify-content: center;
-} 
+}
