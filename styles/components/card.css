@@ -1,0 +1,13 @@
+.card {
+    border: none;
+}
+.card-img {
+    left: 153px;
+    top: 22px;
+}
+.card-img-locked {
+    left: 159px;
+}
+.card-bg {
+    background-color: #f9f9f9;
+}
